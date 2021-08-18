@@ -1,0 +1,36 @@
+body{
+text-align:center;  
+}
+#img1{
+    width:200px;
+    border-radius:50px;
+}
+#first{
+    background: linear-gradient(#90f0ee 0%, #e83f9f 100%);
+}
+#about{
+     font-size:20px;
+background: linear-gradient(#d793f5 0%, #eb46c7 100%);
+}
+.menu{
+    list-style:none;
+    font-family:sans-serif;
+    position: absolute;
+    right: 30px;
+    top:10px;
+    cursor:pointer;
+    z-index: 10px;
+}
+.links{
+    float: left;
+    colour:black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.links:hoer{
+    background-color: aqua;
+}
